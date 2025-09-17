@@ -9,3 +9,5 @@ The following alternatives to add elements to the DOM could be explored:
 * innerHTML with template literals
 * cloneNode()
 * HTML <template>
+
+!(result.png)
