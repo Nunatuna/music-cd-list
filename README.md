@@ -1,4 +1,4 @@
-# Music CD Exercise
+# Music CD Javascript Exercise
 
 Create an in-memory front-end application where the user can add music CDs to a table and delete them from it.
 
