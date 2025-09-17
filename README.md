@@ -10,4 +10,4 @@ The following alternatives to add elements to the DOM could be explored:
 * cloneNode()
 * HTML <template>
 
-!(result.png)
+![final result](https://github.com/Nunatuna/music-cd-list/blob/main/result.png)
