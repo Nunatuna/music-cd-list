@@ -9,5 +9,6 @@ The following alternatives to add elements to the DOM could be explored:
 * innerHTML with template literals
 * cloneNode()
 * HTML <template>
+<br/>
 
 ![final result](https://github.com/Nunatuna/music-cd-list/blob/main/result.png)
